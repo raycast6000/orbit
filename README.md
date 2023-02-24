@@ -17,7 +17,7 @@ character = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/rayc
 - One advantage Orbit has is that you can move your body parts by modifying the joints inside the fake character's torso
 - The main script returns the fake character.
 ## Hats needed
-- https://www.roblox.com/catalog/4996525138/Head-of-Conflict
+- https://www.roblox.com/catalog/4996525138/Head-of-Conflict -- For the head, you can change this in the source code.
 - https://www.roblox.com/catalog/48474294/ROBLOX-Girl-Hair
 - https://www.roblox.com/catalog/48474313/Red-Roblox-Cap
 - https://www.roblox.com/catalog/62724852/Chestnut-Bun
