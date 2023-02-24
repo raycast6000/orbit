@@ -11,3 +11,4 @@ character = loadstring(game:HttpGetAsync("https://raw.gitusercontent.com/raycast
 ## Notes for devs
 - You can play animations and they will replicate, as long as they are made by Roblox or the game developer.
 - One advantage Orbit has is that you can move your body parts by modifying the joints inside the fake character's torso
+- The main script returns the fake character.
