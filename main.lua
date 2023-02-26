@@ -96,6 +96,8 @@ end
 Player.Character = nCharacter
 Camera.CameraSubject = nCharacter.Humanoid;
 
+delay(5.65, function() oCharacter.Humanoid.Health = 0; wait() Camera.CameraSubject = nCharacter.Humanoid end)
+
 for _,v in pairs(nCharacter:GetDescendants()) do
 	if v:isA("BasePart") then
 		v.Transparency = 1
