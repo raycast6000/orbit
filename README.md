@@ -1,5 +1,6 @@
 # Orbit
-Orbit builds a character using hats.
+Orbit builds a character using hats. This script no longer works due to the hair limit and network ownership changes. \
+Thanks for visiting!
 # Copy and paste me
 ```lua
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/raycast6000/orbit/main/main.lua"))()
